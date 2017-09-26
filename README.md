@@ -1,2 +1,3 @@
 # hello-world
-1st timer
+i'am still learning about programming as my hobby
+and i'am a gamer :)
